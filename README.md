@@ -1,4 +1,4 @@
-# VisionAID AI – Smart Vision and Voice Assistant for the Visually Impaired
+# VoxVision: A Real-Time Visual-to-Audio Assistive System
 
 A web-based assistive application that helps visually impaired users navigate, understand surroundings, and read text using real-time computer vision and voice feedback.
 
@@ -6,7 +6,7 @@ A web-based assistive application that helps visually impaired users navigate, u
 
 ## About
 
-VisionAID AI is an accessibility-focused project that uses Artificial Intelligence, Computer Vision, and Web Speech technologies to convert real-world visual information into spoken guidance. Traditional assistive devices are often expensive and inaccessible. This project provides an affordable alternative that runs directly in a web browser using a smartphone or laptop camera.
+VoxVision AI is an accessibility-focused project that uses Artificial Intelligence, Computer Vision, and Web Speech technologies to convert real-world visual information into spoken guidance. Traditional assistive devices are often expensive and inaccessible. This project provides an affordable alternative that runs directly in a web browser using a smartphone or laptop camera.
 
 The system captures live video, detects obstacles, describes surroundings using AI, reads printed text using OCR, and provides hands-free voice guidance. VisionAID AI aims to empower visually impaired individuals with independent navigation and environmental awareness.
 
